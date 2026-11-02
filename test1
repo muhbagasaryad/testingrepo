@@ -1,0 +1,17 @@
+=== DATA DUMMY UNTUK TESTING ReposLeak Scanner (BUKAN DATA ASLI) ===
+
+Perusahaan: Bank Mandiri
+Domain internal: internal.bankmandiri.co.id
+Endpoint API: https://api.bankmandiri.co.id/v1/account
+
+Data Pegawai (contoh):
+Nama: Budi Santoso
+NIP: 9801123456
+Email: budi.santoso@bankmandiri.co.id
+Gaji: Rp 8.500.000
+Username login: budi.santoso
+Password: Rahasia123!
+
+API Key (contoh):
+SwaggerHub-Key: sh_dummy_51Hxxxxxxxxxxxxxxxxxxxxxxxxxx
+Postman-Key: PMAK-dummy1234567890abcdef1234567890abcd
